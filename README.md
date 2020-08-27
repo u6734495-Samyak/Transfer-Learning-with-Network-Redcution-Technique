@@ -23,13 +23,19 @@ INSTALLATION
 ------------
 
 For installing MTCNN-
-open Command prompt and type - 
+
+open Command prompt and type -
+
 	!pip3 install mtcnn(if python3 )
 	!pip install mtcnn (for pyhton2)
 For installing torchvision-
-open Command prompt and type - 
+
+open Command prompt and type -
+
 	!pip3 install torchvision(if python3 )
 	!pip install torchvision (for pyhton2)
+	
+	
 CONFIGURATION
 -------------
 	1.First we have place the folder containing images namely "Subset For Assignment SFEW" in this folder.(Since the large amount of space the folder requires , we have to download the SFEW dataset that contains images which can be easy to find online.)
